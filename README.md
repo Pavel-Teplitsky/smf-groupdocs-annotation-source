@@ -7,15 +7,15 @@ With GroupDocs Annotation plugin for SMF CMS you can easily view and annotate on
 
 ###Installation Instuctions
 
-1. Unzip GroupDocs_Viewer archive to the root/packages/
+1. Unzip GroupDocs_Annotation archive to the root/packages/
 
-2. Place viewer.gif to the root/themes/default/images/bbc folder
+2. Place Annotation.gif to the root/themes/default/images/bbc folder
 3. Go to the Admin->Package Manager
-4. Click install mod opposite GroupDocs Viewer
+4. Click install mod opposite GroupDocs Annotation
 
 5. On next screen click Install now
 
-6. To insert groupDocs Viewer iframe to the post go to edit post and click on GroupDocs icon.
+6. To insert groupDocs Annotation iframe to the post go to edit post and click on GroupDocs icon.
 
 7. On dialog inser file GUID and click Ok
 
@@ -25,7 +25,7 @@ With GroupDocs Annotation plugin for SMF CMS you can easily view and annotate on
 
 1. Go to the Admin->Package Manager
 
-2. Oppozit groupDocs Viewer click Uninstall
+2. Oppozit groupDocs Annotation click Uninstall
 
 3. On next screen click Uninstall now
 
