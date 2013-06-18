@@ -1,4 +1,4 @@
-[center][size=18pt][font=tahoma][b][color=#006666]GrouDocs Viewer 1.0[/color][/b][/font][/size][/center]
+[center][size=18pt][font=tahoma][b][color=#006666]GrouDocs Annotation 1.0[/color][/b][/font][/size][/center]
 
 [hr]
 [img]http://www.smfpersonal.net/famfamfam/page_white_flash.png[/img] [b]Features:[/b]

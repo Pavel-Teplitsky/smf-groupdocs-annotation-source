@@ -1,4 +1,4 @@
-Thank you for installing GroupDocs Viewer,<br />
+Thank you for installing GroupDocs Annotation<br />
 <br />
 We hope you enjoy the Mod! 
 <hr />
